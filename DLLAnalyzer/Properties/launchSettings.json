@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DLLAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": " -d full -cr Program -mr Work C:\\Users\\tomek\\source\\repos\\DemoConsoleApp\\DemoConsoleApp\\bin\\Debug\\net6.0\\DemoConsoleApp.dll"
+    }
+  }
+}
