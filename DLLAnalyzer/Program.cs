@@ -12,7 +12,7 @@ namespace DLLAnalyzer
             Console.WriteLine("Welcome to DLLAnalyzer");
             if (args.Length == 0)
             {
-                Console.WriteLine("Please specify the assembly...");
+                Console.WriteLine("Not enough arguments...");
                 return;
             }
             else
